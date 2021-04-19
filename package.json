@@ -1,0 +1,23 @@
+{
+    "name": "theme-ilk",
+    "displayName": "Ilk Theme",
+    "description": "A vintage theme.",
+    "publisher": "tomasz-lisowski",
+    "repository": "https://github.com/tomasz-lisowski/theme-ilk",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ilk Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme-ilk-color-theme.json"
+            }
+        ]
+    }
+}
