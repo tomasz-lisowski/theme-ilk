@@ -1,3 +1,4 @@
+![alt text](https://github.com/tomasz-lisowski/theme-ilk/blob/master/misc/showcase.png?raw=true)
 # Ilk Theme
 Work-in-progress **vscode** vintage theme.
 
