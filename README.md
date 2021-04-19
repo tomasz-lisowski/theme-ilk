@@ -1,5 +1,5 @@
 ![alt text](https://github.com/tomasz-lisowski/theme-ilk/blob/master/misc/showcase.png?raw=true)
-# Ilk Theme
+# ILK Theme
 Work-in-progress **vscode** vintage theme.
 
 ## How to Install
