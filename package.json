@@ -4,7 +4,13 @@
     "description": "A vintage theme.",
     "publisher": "tomasz-lisowski",
     "repository": "https://github.com/tomasz-lisowski/theme-ilk",
-    "version": "0.0.1",
+    "icon": "misc/icon.png",
+    "version": "0.0.2",
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "galleryBanner": {
+        "color": "#1A1A1A",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
