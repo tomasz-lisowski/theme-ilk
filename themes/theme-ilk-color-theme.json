@@ -82,11 +82,11 @@
 			"fontStyle": ""
 		},
 		"property": {
-			"foreground": "#FAE6E9",
-			"fontStyle": ""
+			"foreground": "#82AABD",
+			"fontStyle": "bold"
 		},
 		"property.readonly": {
-			"foreground": "#FAE6E9",
+			"foreground": "#82AABD",
 			"fontStyle": "bold"
 		},
 		"event": {
