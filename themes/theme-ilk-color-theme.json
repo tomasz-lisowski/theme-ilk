@@ -70,12 +70,12 @@
 			"fontStyle": ""
 		},
 		"variable.readonly": {
-			"foreground": "#FAE6E9",
-			"fontStyle": "bold"
+			"foreground": "#82BD89",
+			"fontStyle": ""
 		},
 		"variable.readonly.defaultLibrary": {
-			"foreground": "#FAE6E9",
-			"fontStyle": "bold"
+			"foreground": "#82BD89",
+			"fontStyle": ""
 		},
 		"parameter": {
 			"foreground": "#F3B369",
@@ -195,8 +195,8 @@
 				"constant.language.c",
 			],
 			"settings": {
-				"foreground": "#FAE6E9",
-				"fontStyle": "bold",
+				"foreground": "#82BD89",
+				"fontStyle": "",
 			}
 		},
 		{
