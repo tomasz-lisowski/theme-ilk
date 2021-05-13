@@ -316,12 +316,24 @@
 			}
 		},
 		{
+			"name": "string special",
+			"scope": [
+				"constant.character.escape",
+				"constant.other.placeholder"
+			],
+			"settings": {
+				"foreground": "#d49aa1",
+				"fontStyle": "",
+			}
+		},
+		{
 			"name": "keyword",
 			"scope": [
 				"keyword",
 				"punctuation",
 				"storage.type.struct",
-				"storage.modifier.specifier"
+				"storage.type.enum",
+				"storage.modifier"
 			],
 			"settings": {
 				"foreground": "#F0E7AF",
@@ -332,7 +344,7 @@
 			"name": "number",
 			"scope": [
 				"number",
-				"constant.numeric"
+				"constant.numeric",
 			],
 			"settings": {
 				"foreground": "#F0E7AF",
