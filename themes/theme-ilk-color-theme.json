@@ -18,11 +18,11 @@
 			"fontStyle": ""
 		},
 		"type": {
-			"foreground": "#F0E7AF",
+			"foreground": "#F0C3A9",
 			"fontStyle": "italic"
 		},
 		"type.defaultLibrary": {
-			"foreground": "#F0E7AF",
+			"foreground": "#F0C3A9",
 			"fontStyle": "italic"
 		},
 		"struct": {
@@ -78,7 +78,7 @@
 			"fontStyle": ""
 		},
 		"parameter": {
-			"foreground": "#F3B369",
+			"foreground": "#FAE6E9",
 			"fontStyle": ""
 		},
 		"property": {
@@ -139,11 +139,32 @@
 			"name": "struct",
 			"scope": [
 				"struct",
-				"entity.name.type.struct"
+				"entity.name.type.struct",
 			],
 			"settings": {
 				"foreground": "#82AABD",
 				"fontStyle": "italic",
+			}
+		},
+		{
+			"name": "struct instance",
+			"scope": [
+				"variable.other.object"
+			],
+			"settings": {
+				"foreground": "#82AABD",
+				"fontStyle": "",
+			}
+		},
+		{
+			"name": "struct member",
+			"scope": [
+				"variable.other.property",
+				"variable.other.member"
+			],
+			"settings": {
+				"foreground": "#82AABD",
+				"fontStyle": "bold",
 			}
 		},
 		{
@@ -161,9 +182,11 @@
 			"scope": [
 				"type",
 				"storage",
+				"entity.other.attribute-name",
+				"support.type"
 			],
 			"settings": {
-				"foreground": "#F0E7AF",
+				"foreground": "#F0C3A9",
 				"fontStyle": "italic"
 			}
 		},
@@ -171,10 +194,10 @@
 			"name": "parameter",
 			"scope": [
 				"parameter",
-				"variable.parameter.preprocessor"
+				"variable.parameter",
 			],
 			"settings": {
-				"foreground": "#F3B369",
+				"foreground": "#FAE6E9",
 				"fontStyle": ""
 			}
 		},
@@ -233,7 +256,7 @@
 			"name": "function",
 			"scope": [
 				"function",
-				"entity.name.function"
+				"entity.name.function",
 			],
 			"settings": {
 				"foreground": "#82BD89",
@@ -254,7 +277,7 @@
 			"name": "macro",
 			"scope": [
 				"macro",
-				"meta.preprocessor.macro"
+				"meta.preprocessor.macro",
 			],
 			"settings": {
 				"foreground": "#82BD89",
@@ -275,6 +298,7 @@
 			"name": "comment",
 			"scope": [
 				"comment",
+				"punctuation.definition.comment"
 			],
 			"settings": {
 				"foreground": "#8F8F8F",
@@ -295,6 +319,7 @@
 			"name": "keyword",
 			"scope": [
 				"keyword",
+				"punctuation"
 			],
 			"settings": {
 				"foreground": "#F0E7AF",
@@ -406,7 +431,7 @@
 				"markup.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#F3B369",
+				"foreground": "#F0C3A9",
 			}
 		},
 		{
