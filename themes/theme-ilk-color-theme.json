@@ -319,7 +319,9 @@
 			"name": "keyword",
 			"scope": [
 				"keyword",
-				"punctuation"
+				"punctuation",
+				"storage.type.struct",
+				"storage.modifier.specifier"
 			],
 			"settings": {
 				"foreground": "#F0E7AF",
