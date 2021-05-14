@@ -83,11 +83,11 @@
 		},
 		"property": {
 			"foreground": "#82AABD",
-			"fontStyle": "bold"
+			"fontStyle": ""
 		},
 		"property.readonly": {
 			"foreground": "#82AABD",
-			"fontStyle": "bold"
+			"fontStyle": ""
 		},
 		"event": {
 			"foreground": "#FAE6E9", // TODO
@@ -112,7 +112,7 @@
 			],
 			"settings": {
 				"foreground": "#82AABD",
-				"fontStyle": "bold",
+				"fontStyle": "",
 			}
 		},
 		{
@@ -160,11 +160,12 @@
 			"name": "struct member",
 			"scope": [
 				"variable.other.property",
-				"variable.other.member"
+				"variable.other.member",
+				"entity.name.function.member"
 			],
 			"settings": {
 				"foreground": "#82AABD",
-				"fontStyle": "bold",
+				"fontStyle": "",
 			}
 		},
 		{
