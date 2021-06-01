@@ -139,7 +139,7 @@
 			"name": "struct",
 			"scope": [
 				"struct",
-				"entity.name.type.struct",
+				"entity.name.type.struct"
 			],
 			"settings": {
 				"foreground": "#82AABD",
@@ -195,6 +195,7 @@
 			"name": "parameter",
 			"scope": [
 				"parameter",
+				"variable.parameter.js",
 				"variable.parameter",
 			],
 			"settings": {
@@ -217,6 +218,7 @@
 			"scope": [
 				"constant",
 				"constant.language.c",
+				"variable.other.constant.js"
 			],
 			"settings": {
 				"foreground": "#82BD89",
@@ -334,7 +336,9 @@
 				"punctuation",
 				"storage.type.struct",
 				"storage.type.enum",
-				"storage.modifier"
+				"storage.modifier",
+				"meta.brace.round.js",
+				"meta.brace.square.js"
 			],
 			"settings": {
 				"foreground": "#F0E7AF",
@@ -478,5 +482,14 @@
 				"foreground": "#F0C3A9",
 			}
 		},
+		{
+			"name": "JSX HTML",
+			"scope": [
+				"entity.name.tag.js"
+			],
+			"settings": {
+				"foreground": "#F0E7AF"
+			}
+		}
 	]
 }
