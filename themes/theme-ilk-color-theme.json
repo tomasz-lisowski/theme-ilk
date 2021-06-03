@@ -337,8 +337,8 @@
 				"storage.type.struct",
 				"storage.type.enum",
 				"storage.modifier",
-				"meta.brace.round.js",
-				"meta.brace.square.js"
+				"meta.brace.round",
+				"meta.brace.square"
 			],
 			"settings": {
 				"foreground": "#F0E7AF",
