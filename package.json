@@ -1,29 +1,29 @@
 {
-    "name": "theme-ilk",
-    "displayName": "Ilk Theme",
-    "description": "A vintage theme.",
-    "publisher": "tomasz-lisowski",
-    "repository": "https://github.com/tomasz-lisowski/theme-ilk",
-    "icon": "misc/icon.png",
-    "version": "0.3.8",
-    "license": "MIT",
-    "galleryBanner": {
-        "color": "#1A1A1A",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Ilk Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/theme-ilk-color-theme.json"
-            }
-        ]
-    }
+  "name": "theme-ilk",
+  "displayName": "Ilk Theme",
+  "description": "A vintage theme.",
+  "publisher": "tomasz-lisowski",
+  "repository": "https://github.com/tomasz-lisowski/theme-ilk",
+  "icon": "misc/icon.png",
+  "version": "0.3.9",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#1A1A1A",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ilk Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-ilk-color-theme.json"
+      }
+    ]
+  }
 }

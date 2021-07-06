@@ -25,6 +25,10 @@
 			"foreground": "#F0C3A9",
 			"fontStyle": "italic"
 		},
+		"typeParameter": {
+			"foreground": "#F0C3A9",
+			"fontStyle": "italic"
+		},
 		"struct": {
 			"foreground": "#82AABD",
 			"fontStyle": "italic"
@@ -38,8 +42,8 @@
 			"fontStyle": "italic"
 		},
 		"interface": {
-			"foreground": "#FAE6E9", // TODO
-			"fontStyle": ""
+			"foreground": "#F0C3A9",
+			"fontStyle": "italic"
 		},
 		"enum": {
 			"foreground": "#82BDB0",
@@ -129,10 +133,11 @@
 			"name": "interface",
 			"scope": [
 				"interface",
+				"entity.name.type.interface"
 			],
 			"settings": {
-				"foreground": "#FAE6E9", // TODO
-				"fontStyle": "",
+				"foreground": "#F0C3A9",
+				"fontStyle": "italic",
 			}
 		},
 		{
