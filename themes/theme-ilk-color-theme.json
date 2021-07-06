@@ -488,12 +488,12 @@
 			}
 		},
 		{
-			"name": "JSX HTML",
+			"name": "html tags",
 			"scope": [
-				"entity.name.tag.js"
+				"entity.name.tag" // HTML/CSS/JSX/TSX/...
 			],
 			"settings": {
-				"foreground": "#F0E7AF"
+				"foreground": "#82AABD"
 			}
 		}
 	]
