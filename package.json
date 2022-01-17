@@ -1,14 +1,14 @@
 {
   "name": "theme-ilk",
   "displayName": "Ilk Theme",
-  "description": "A vintage theme.",
+  "description": "A simple vintage theme created for C and tools surrounding it like Markdown, Make, Asm, etc...",
   "publisher": "tomasz-lisowski",
   "repository": "https://github.com/tomasz-lisowski/theme-ilk",
   "icon": "misc/icon.png",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "license": "MIT",
   "galleryBanner": {
-    "color": "#1A1A1A",
+    "color": "#234326",
     "theme": "dark"
   },
   "engines": {
