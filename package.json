@@ -1,11 +1,11 @@
 {
   "name": "theme-ilk",
   "displayName": "Ilk Theme",
-  "description": "Theme that couples semantic groups with a small set of colors for improved reading speed. Optimized for C and tools used alongside it e.g. Markdown, Make, Asm.",
+  "description": "Theme that couples semantic groups with a small set of colors for improved readability. Optimized for C and tools used alongside it e.g. Markdown, Make, Asm.",
   "publisher": "tomasz-lisowski",
   "repository": "https://github.com/tomasz-lisowski/theme-ilk",
   "icon": "misc/icon.png",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "license": "MIT",
   "galleryBanner": {
     "color": "#234326",
