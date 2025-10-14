@@ -5,3 +5,8 @@ There are some minor bugs which are a result of poor VSCode semantic analysis of
 
 ## How to Install
 Install the extension from the marketplace **OR** move the whole folder to `.../vscode/resources/app/extensions/` to install manually.
+
+## Building
+1. `npm install -g @vscode/vsce`
+2. `vsce package`
+3. `vsce publish` (to publish the extension on the marketplace)
