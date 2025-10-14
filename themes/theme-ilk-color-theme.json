@@ -245,7 +245,7 @@
 			"scope": [
 				"constant",
 				"constant.language.c",
-				"variable.other.constant.js"
+				"variable.other.constant.js",
 			],
 			"settings": {
 				"foreground": "#82BD89",
@@ -287,6 +287,7 @@
 			"scope": [
 				"function",
 				"entity.name.function",
+				"support.function.builtin.ld",
 			],
 			"settings": {
 				"foreground": "#82BD89",
@@ -365,7 +366,8 @@
 				"storage.type.enum",
 				"storage.modifier",
 				"meta.brace.round",
-				"meta.brace.square"
+				"meta.brace.square",
+				"source.ld",
 			],
 			"settings": {
 				"foreground": "#F0E7AF",
